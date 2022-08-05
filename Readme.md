@@ -15,4 +15,4 @@ Author: Ahmed Hossam Sedky
     * Use pycaw to set volume of the device 
 
 ## Output
-![Example of output](images/output.PNG "Example Of Output")
+![1st Example of output](https://raw.githubusercontent.com/ahmed-sedky/Volume-Hand-Controller/master/Images/output.PNG "1st Example Of Output")
